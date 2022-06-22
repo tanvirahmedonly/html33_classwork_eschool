@@ -50,8 +50,11 @@
     }
     /* course end */
     /* testimonial start */
-    .testimonial {
-        padding-bottom: 60px;
+     .testimonial {
+        padding-bottom: 30px;
+    }
+    .c_pb {
+        padding-bottom: 40px;
     }
     .ce_text, .ce_text {
         padding-top: 30px;
@@ -126,8 +129,11 @@
     }
     /* course end */
     /* testimonial start */
-    .testimonial {
-        padding-bottom: 60px;
+   .testimonial {
+        padding-bottom: 30px;
+    }
+    .c_pb {
+        padding-bottom: 40px;
     }
     .ce_img, .ce_text{
         padding-top: 30px;
@@ -198,8 +204,11 @@
     }
     /* course end */
     /* testimonial start */
-    .testimonial {
-        padding-bottom: 80px;
+     .testimonial {
+        padding-bottom: 40px;
+    }
+    .c_pb {
+        padding-bottom: 40px;
     }
     .ce_img, .ce_text {
         padding-top: 40px;
