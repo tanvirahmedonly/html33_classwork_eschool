@@ -1,0 +1,257 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .menu ul li a {
+        margin-bottom: 10px;
+        padding: 0 10px !important;
+    }
+    header {
+        padding: 0 0;
+    }
+    .logo img {
+        width: 180px;
+    }
+    /* banner start */
+    .banner {
+        padding: 10px 0 60px;
+    }
+    .b_text {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .b_h1 {
+        margin: 10px 0 10px;
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .b_black {
+        line-height: 24px;
+        padding: 0 0px;
+    }
+    .b_image {
+        padding: 0px 0px;
+    }
+    /* banner end */
+    /* feature start */
+    .feature {
+        padding-bottom: 60px;
+    }
+    /* feature end */
+    /* course start */
+    .course {
+        padding-bottom: 60px;
+    }
+    .c_item {
+        text-align: center;
+        margin-top: 30px;
+        padding: 25px 10px 30px;
+    }
+    .c_item a {
+        margin: 15px 0 15px;
+    }
+    /* course end */
+    /* testimonial start */
+    .testimonial {
+        padding-bottom: 60px;
+    }
+    .ce_text, .ce_text {
+        padding-top: 30px;
+    }
+    .ce_text p {
+        text-align: center;
+    }
+    .custom_carousel-indicators [data-bs-target] {
+        width: 13px;
+        height: 13px;
+    }
+    /* testimonial end */
+    /* footer start */
+    .f_item1, .f_item2 {
+        padding-top: 30px;
+        text-align: center;
+    }
+    .f_item2:last-child {
+        justify-content: center;
+    }
+    .f_pb {
+        padding-bottom: 40px;
+    }
+    .copy_text {
+        padding-bottom: 15px;
+    }
+    /* footer end */
+}
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menu ul li a {
+        margin-bottom: 10px;
+        padding: 0 10px !important;
+    }
+    /* banner start */
+    .banner {
+        padding: 10px 0 60px;
+    }
+    .b_text {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .b_h1 {
+        margin: 10px 0 10px;
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .b_black {
+        line-height: 24px;
+        padding: 0 50px;
+    }
+    .b_image {
+        padding: 0 100px;
+    }
+    /* banner end */
+    /* feature start */
+    .feature {
+        padding-bottom: 60px;
+    }
+    /* feature end */
+    /* course start */
+    .course {
+        padding-bottom: 60px;
+    }
+    .c_item {
+        margin-top: 40px;
+        padding: 25px 92px 30px;
+    }
+    .c_item a {
+        margin: 15px 0 15px;
+    }
+    /* course end */
+    /* testimonial start */
+    .testimonial {
+        padding-bottom: 60px;
+    }
+    .ce_img, .ce_text{
+        padding-top: 30px;
+    }
+    .ce_text p {
+        text-align: center;
+    }
+    .custom_carousel-indicators [data-bs-target] {
+        width: 13px;
+        height: 13px;
+    }
+    /* testimonial end */
+    /* footer start */
+    .f_item1 {
+        text-align: center;
+    }
+    .f_item1, .f_item2 {
+        padding-top: 30px;
+    }
+    .f_pb {
+        padding-bottom: 40px;
+    }
+    .copy_text {
+        padding-bottom: 15px;
+    }
+    /* footer end */
+}
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu ul li a {
+        margin-bottom: 10px;
+        padding: 0 10px !important;
+    }
+    /* banner start */
+    .banner {
+        padding: 10px 0 60px;
+    }
+    .b_text {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .b_h1 {
+        margin: 10px 0 10px;
+        font-size: 35px;
+        line-height: 35px;
+    }
+    .b_black {
+        line-height: 24px;
+        padding: 0 50px;
+    }
+    .b_image {
+        padding: 0 100px;
+    }
+    /* banner end */
+    /* feature start */
+    .feature {
+        padding-bottom: 80px;
+    }
+    /* feature end */
+    /* course start */
+    .course {
+        padding-bottom: 80px;
+    }
+    .c_item {
+        margin-top: 40px;
+        padding: 25px 180px 30px;
+    }
+    /* course end */
+    /* testimonial start */
+    .testimonial {
+        padding-bottom: 80px;
+    }
+    .ce_img, .ce_text {
+        padding-top: 40px;
+    }
+    /* testimonial end */
+    /* footer start */
+    .f_item1, .f_item2 {
+        padding-top: 40px;
+    }
+    .f_pb {
+        padding-bottom: 50px;
+    }
+    .copy_text {
+        padding-bottom: 20px;
+    }
+    /* footer end */
+}
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* banner start */
+    .b_h1 {
+        font-size: 40px;
+        padding-right: 30px;
+    }
+    /* banner end */
+    /* course start */
+    .c_item {
+        padding: 15px 15px 20px;
+    }
+    .date ul li img {
+        width: 14px;
+    }
+    .seat ul li img {
+        width: 18px;
+    }
+    .date ul li span, .seat ul li span {
+        font-size: 14px;
+    }
+    /* course end */
+}
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+    /* banner start */
+    .b_h1 {
+        padding-right: 40px;
+    }
+    /* banner end */
+ }
+
+ /* Extra extra large devices (extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
