@@ -231,7 +231,7 @@
 @media (min-width: 992px) and (max-width: 1199.98px) {
     /* banner start */
     .b_h1 {
-        font-size: 40px;
+        font-size: 35px;
         padding-right: 30px;
     }
     /* banner end */
@@ -264,3 +264,4 @@
 @media (min-width: 1400px) {
 
 }
+
